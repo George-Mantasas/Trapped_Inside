@@ -2,6 +2,9 @@
 
 Game Trailer: https://www.youtube.com/watch?v=zGgpmA0RksM
 
+The full game is available for free to download at the link below.
+https://drive.google.com/file/d/1tqiuWdGqR3kXDiVpcqbf8zknA1LwaSmx/view?usp=sharing
+
 Installation: Download Trapped Inside.rar, Unzip and enjoy Trapped Inside.exe
 
 
