@@ -1,4 +1,4 @@
------------------------------Trapped Inside--------------------------------
+#Trapped Inside
 Game Trailer: https://www.youtube.com/watch?v=zGgpmA0RksM
 
 Installation: Download Trapped Inside.rar, Unzip and enjoy Trapped Inside.exe
