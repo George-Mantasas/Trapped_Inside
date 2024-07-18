@@ -16,4 +16,4 @@ I started making this game on 3/10/2021 and finished on 30/8/2022.
 University of the Peloponnese. School of Economics and Technology.
 Department of Digital Systems 2022.
 
-If you want to contact me, you can send me at geo.mantasas@gmail.com
+If you want to contact me, you can send me geo.mantasas@gmail.com
